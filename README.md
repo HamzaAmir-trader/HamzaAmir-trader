@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Hamza Amir
-- 👀 I’m interested in Crypto, Programming, Stocks and things like that
+- 👋 Hi, I’m Hamza Amir, your certified abu
+- 👀 I’m interested in Crypto, Programming
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate after learning MERN Stack
 - 📫 How to reach me @hamzaassassinono1@gmail.com

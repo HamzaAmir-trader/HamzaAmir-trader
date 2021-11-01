@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hamza Amir, your certified abu
 - 👀 I’m interested in Crypto, Programming
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I've got HTML, CSS, JS. MERN Stack, MySQL, SQL, Firebase and github skills
 - 💞️ I’m looking to collaborate after learning MERN Stack
 - 📫 How to reach me @hamzaassassinono1@gmail.com
 
